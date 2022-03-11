@@ -1,1 +1,1 @@
-# JavaEE8-Sample
+# Java EE8 Sample
